@@ -7,5 +7,5 @@ def main(a):
         bool
     """
     # Write your code here
-    return a==3
+    return a%3
 print(main(a=3))
